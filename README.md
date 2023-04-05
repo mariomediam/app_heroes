@@ -3,6 +3,8 @@
 Esta guía de inicio rápido demuestra cómo usar Docker Compose para ejecutar una Single Page Application (SPA). Antes de empezar,
 [instala Compose](https://docs.docker.com/compose/install/).
 
+![Alt text](heroes-app.jpg)
+
 ### Software utilizado
 
 ```
@@ -29,3 +31,5 @@ CONTAINER ID   IMAGE                           COMMAND                  CREATED 
 ```
 
 Luego vaya a `http://localhost:3000/` en su navegador web.
+
+Puede ver la SPA en `https://mario-medina-heroesapp.netlify.app/login`
