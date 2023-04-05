@@ -32,4 +32,4 @@ CONTAINER ID   IMAGE                           COMMAND                  CREATED 
 
 Luego vaya a `http://localhost:3000/` en su navegador web.
 
-Puede ver la SPA en `https://mario-medina-heroesapp.netlify.app/login`
+Puede ver la SPA en [netlify](https://mario-medina-heroesapp.netlify.app)
