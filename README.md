@@ -9,6 +9,8 @@ Esta guía de inicio rápido demuestra cómo usar Docker Compose para ejecutar u
 node==18.3
 react===18.2.0
 vite===4.1.0
+query-string===8.1.0
+react-router-dom===6.10.0
 ```
 
 ## Deploy con docker compose
